@@ -1,6 +1,8 @@
-<div align=center>
-  ### 안녕하세요! 홍인표입니다 :stuck_out_tongue_winking_eye:
 
+  ### <div align=center>안녕하세요! 홍인표입니다 :stuck_out_tongue_winking_eye: </div>
+
+<div align=center>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinpyo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
