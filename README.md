@@ -7,7 +7,7 @@
 
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=hinpyo&amp;show_icons=true&amp;theme=transparent&amp;locale=kr"
+      src="[https://github-stats-extended.vercel.app/api?username=hinpyo&amp;show_icons=true&amp;theme=transparent&amp;locale=kr](https://github-stats-extended.vercel.app/api?username=hinpyo&show_icons=true&theme=transparent&locale=kr)"
       alt="홍인표의 GitHub 통계"
     />
   </a>
