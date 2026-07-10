@@ -99,9 +99,9 @@ Apple Health에서 내보낸 Apple Watch 수면 단계 데이터를 읽어, 수�
 
 ### Building thoughtful software, one product at a time.
 
-[Weave Atelier 한국어 소개](https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md)
+[Weave Atelier](https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md)
  · 
-[DreamPort 한국어 소개](https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md)
+[DreamPort](https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md)
  · 
 [@hinpyo](https://github.com/hinpyo)
 
