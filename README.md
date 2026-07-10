@@ -23,58 +23,34 @@
 
 ---
 
-## Products
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md">
-        <img
-          src="https://avatars.githubusercontent.com/u/268080712?v=4"
-          width="110"
-          alt="Weave Atelier 로고"
-        />
-      </a>
-      <br />
-      <h3>
-        <a href="https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md">
-          Weave Atelier
-        </a>
-      </h3>
-      성격과 사고를 더 깊이 이해하기 위한<br />
-      소프트웨어를 만드는 독립 스튜디오
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md">
-        <img
-          src="https://raw.githubusercontent.com/dreamporthq/dreamport-desktop/main/assets/oscar_icon.png"
-          width="110"
-          alt="DreamPort 로고"
-        />
-      </a>
-      <br />
-      <h3>
-        <a href="https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md">
-          DreamPort
-        </a>
-      </h3>
-      Apple Watch 수면 데이터를 OSCAR에서<br />
-      활용할 수 있도록 변환하는 오픈소스 소프트웨어
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md">
+  <img
+    src="https://avatars.githubusercontent.com/u/268080712?v=4"
+    width="120"
+    alt="Weave Atelier 로고"
+  />
+</a>
 
-### Weave Atelier
+## [Weave Atelier](https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md)
 
-#### [FiveWeave · 다섯결](https://github.com/weaveatelier/fiveweave/blob/main/README_KR.md)
+성격과 사고를 더 깊이 이해하기 위한
+소프트웨어를 만드는 독립 스튜디오입니다.
+
+</div>
+
+### [FiveWeave · 다섯결](https://github.com/weaveatelier/fiveweave/blob/main/README_KR.md)
 
 > **BIG5 모델을 바탕으로 더 깊은 자기이해와 상호이해를 돕는 성격 분석 서비스**
 
-단순한 성격 유형과 짧은 라벨을 넘어, 개인의 성격을 연속적이고 입체적인 특성으로 분석합니다. 사용자가 자신과 타인의 성격을 더 정확하고 풍부하게 이해할 수 있는 경험을 만드는 것이 목표입니다.
+단순한 성격 유형과 짧은 라벨을 넘어, 개인의 성격을 연속적이고 입체적인 특성으로 분석합니다.
+
+사용자가 자신과 타인의 성격을 더 정확하고 풍부하게 이해할 수 있는 경험을 만드는 것이 목표입니다.
 
 **상태:** `개발 중`
 
-#### LogicWeave
+### LogicWeave
 
 > **논리적 오류와 사고 편향을 발견하고 훈련하는 논리 학습 서비스**
 
@@ -84,11 +60,22 @@
 
 ---
 
-### DreamPortHQ
+<div align="center">
 
-#### [DreamPort](https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md)
+<a href="https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md">
+  <img
+    src="https://raw.githubusercontent.com/dreamporthq/dreamport-desktop/main/assets/oscar_icon.png"
+    width="120"
+    alt="DreamPort 로고"
+  />
+</a>
 
-> **Apple Watch 수면 데이터를 OSCAR에 입력 가능한 형태로 변환하는 오픈소스 소프트웨어**
+## [DreamPort](https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md)
+
+Apple Watch 수면 데이터를 OSCAR에서
+활용할 수 있도록 변환하는 오픈소스 소프트웨어입니다.
+
+</div>
 
 Apple Health에서 내보낸 Apple Watch 수면 단계 데이터를 읽어, 수면 분석 프로그램 **OSCAR**에서 가져올 수 있는 Dreem CSV 및 ZEO CSV 형식으로 변환합니다.
 
@@ -115,5 +102,7 @@ Apple Health에서 내보낸 Apple Watch 수면 단계 데이터를 읽어, 수�
 [Weave Atelier 한국어 소개](https://github.com/weaveatelier/.github/blob/main/profile/README_KR.md)
  · 
 [DreamPort 한국어 소개](https://github.com/dreamporthq/dreamport-desktop/blob/main/README_KO.md)
+ · 
+[@hinpyo](https://github.com/hinpyo)
 
 </div>
